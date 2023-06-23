@@ -4,10 +4,11 @@
 
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/16392542/77208906-224aa500-6aba-11ea-96bd-e81806074030.png" width="350">
+  <img src="![2372w00aRi_jKvz7q9jv3122i0gwYbIa_6a9c2wi](https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/89e261a8-a1a2-43cc-90cb-af94964d4a0c)
+" width="350">
 </div>
 
-## AutoML for Image, Text, Time Series, and Tabular Data
+## AIOT Project
 
 [![Latest Release](https://img.shields.io/github/v/release/autogluon/autogluon)](https://github.com/autogluon/autogluon/releases)
 [![Continuous Integration](https://github.com/autogluon/autogluon/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/autogluon/autogluon/actions/workflows/continuous_integration.yml)
