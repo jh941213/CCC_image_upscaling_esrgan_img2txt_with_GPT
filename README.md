@@ -23,8 +23,10 @@ Storage | 1TB |166GB|73GB|
 
 **how to run?**  
 
-'''python  
-!git clone https://github.com/xinntao/Real-ESRGAN.git
-'''
+
 
  
+```python
+#esrgan
+!git clone https://github.com/xinntao/Real-ESRGAN.git
+```
