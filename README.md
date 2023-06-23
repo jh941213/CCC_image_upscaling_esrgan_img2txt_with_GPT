@@ -17,17 +17,22 @@ GPU | rtx4090 | T4 | P100
 RAM | 64GB |13~52GB|13GB|
 Storage | 1TB |166GB|73GB| 
 
-# Project 
+# Technology
  - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN.git): Training Real-World Blind Super-Resolution with Pure Synthetic Data  
  - [vit-gpt2-image-captioning](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)img to text with ChatGPT hugging face model  
 
-**how to run?**  
+# Preparation  
+LocalPC(GPU cuda setting) , Pico, LAN, Camera Module  
+
+# PipeLine
+<img width="188" alt="pipeline" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/cb27beeb-44d8-4c43-ae1d-a98ceb09d393">
+
+**how to run?**
 
 
-
- 
 ```python
 #esrgan
 !git clone https://github.com/xinntao/Real-ESRGAN.git
 ```  
 **Just git clone and slowly pick up the tutorials file.**
+![l2fZCU97](https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/14257d0f-bd93-4037-8a5e-373a0a2ddfb0)
