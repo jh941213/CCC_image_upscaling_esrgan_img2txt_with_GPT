@@ -25,7 +25,8 @@ Storage | 1TB |166GB|73GB|
 LocalPC(GPU cuda setting) , Pico, LAN, Camera Module  
 
 # PipeLine
-<img width="188" alt="pipeline" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/cb27beeb-44d8-4c43-ae1d-a98ceb09d393">
+<img width="166" alt="2" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/d2dfca23-f9ca-41af-97d3-5252bb8387b7">
+
 
 **how to run?**
 
