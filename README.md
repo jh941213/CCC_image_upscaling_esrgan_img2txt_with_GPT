@@ -36,4 +36,4 @@ LocalPC(GPU cuda setting) , Pico, LAN, Camera Module
 !git clone https://github.com/xinntao/Real-ESRGAN.git
 ```  
 **Just git clone and slowly pick up the tutorials file.**
-![l2fZCU97](https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/14257d0f-bd93-4037-8a5e-373a0a2ddfb0)
+
