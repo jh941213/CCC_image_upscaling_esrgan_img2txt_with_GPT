@@ -26,11 +26,10 @@ Storage | 1TB |166GB|73GB|
 LocalPC(GPU cuda setting) , Pico, LAN, Camera Module  
 
 # PipeLine
-<img width="166" alt="2" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/d2dfca23-f9ca-41af-97d3-5252bb8387b7">
-https://showme.redstarplugin.com/d/l2fZCU97
+<img width="172" alt="dddc" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/01d8c0e1-011c-4b3e-bcde-637ebe6ec413">
+
 
 **how to run?**
-
 
 ```python
 #esrgan
@@ -38,3 +37,7 @@ https://showme.redstarplugin.com/d/l2fZCU97
 ```  
 **Just git clone and slowly pick up the tutorials file.**
 
+# Expected effect  
+> With the success of the above examples, we will be able to create many more examples that combine the fields of IOT and computer vision.
+
+# Examples
