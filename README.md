@@ -1,14 +1,10 @@
-# 🏈 Kaggle_NFL  
-## 🥉Kaggle Bronze 획득🎉
-- Private Score
-![private](https://user-images.githubusercontent.com/112835087/229681560-a245932f-4dba-482f-9a6a-78f29a75f66c.jpg)  
-- Public Score
-![public](https://user-images.githubusercontent.com/112835087/229681566-aba8ae95-5995-4e33-8124-648623fc24ac.jpg)
+#CCC_image_upscaling_esrgan_img2txt_with_GPT
 
 
 
 
-# 👥 팀원  
+
+# 👥 AI Teams 
 [김재현](http://github.com/jh941213) |[정유석](https://github.com/dbtjr1103) |
 ------|------|
 Team Member|Team Member|
@@ -16,11 +12,11 @@ Team Member|Team Member|
 
 
 # 💾 컴퓨터 환경
-비고| AWS Server | Google Colab | Kaggle Notebook |
+비고| LocalPC | Google Colab | Kaggle Notebook |
 -----|-------|-------|-------|
-GPU | A10G | T4 | P100
-RAM |16GB|13~52GB|13GB|
-Storage |250GB|166GB|73GB| 
+GPU | rtx4090 | T4 | P100
+RAM | 64GB |13~52GB|13GB|
+Storage | 1TB |166GB|73GB| 
 
 # 목차
 - [🏈 대회소개](#-대회소개)
