@@ -21,7 +21,8 @@ Storage | 1TB |166GB|73GB|
  - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN.git): Training Real-World Blind Super-Resolution with Pure Synthetic Data  
  - [vit-gpt2-image-captioning](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)img to text with ChatGPT hugging face model  
 
-how to run?  
+**how to run?**  
+
 '''python
 !git clone https://github.com/xinntao/Real-ESRGAN.git
 '''
