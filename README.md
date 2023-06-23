@@ -29,4 +29,5 @@ Storage | 1TB |166GB|73GB|
 ```python
 #esrgan
 !git clone https://github.com/xinntao/Real-ESRGAN.git
-```
+```  
+**Just git clone and slowly pick up the tutorials file.**
