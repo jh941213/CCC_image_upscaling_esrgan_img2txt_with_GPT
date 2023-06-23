@@ -42,7 +42,7 @@ LocalPC(GPU cuda setting) , Pico, LAN, Camera Module
 <img width="172" alt="dddc" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/01d8c0e1-011c-4b3e-bcde-637ebe6ec413">
 
 
-**how to run?**
+## **how to run?**
 
 ```python
 #esrgan
