@@ -1,5 +1,6 @@
 # CCC_image_upscaling_esrgan_img2txt_with_GPT
 # Concept
+<font clolor = blue>**We will be working on an AI project with Pico. The project will be equipped with a camera module, Pico will play the role of Ethernet-based data transmission, and we will use the data to build quality data using AI programs and create reusable source and software.**</font>
 ## A.I with PICO
 - AIOT with the latest AI technology  
 - A realistic alternative to AI task
