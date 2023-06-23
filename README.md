@@ -22,14 +22,14 @@ RAM | 64GB |13~52GB|13GB|
 Storage | 1TB |166GB|73GB| 
 
 # Technology
-#### Real ESRGAN
+## Real ESRGAN
  - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN.git): Training Real-World Blind Super-Resolution with Pure Synthetic Data
 
 ![teaser](https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/1916e0f5-cdc9-42ec-9aec-3744ddc2e3d6)
 ##### Generative Adversarial Networks 
 ![img](https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/65510874-aba2-4843-8db9-104af41d8e77)  
 
-#### image-captioning
+## image-captioning
  - [vit-gpt2-image-captioning](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)img to text with ChatGPT hugging face model  
 <img width="501" alt="image-captioning-example" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/44d84ee8-04f2-4e52-8fa8-55ef4a0870ba">
 #####  Vision Encoder Decoder
