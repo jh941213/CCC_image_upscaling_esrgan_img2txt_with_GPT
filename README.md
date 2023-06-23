@@ -1,10 +1,23 @@
 # CCC_image_upscaling_esrgan_img2txt_with_GPT
-# Concept
-<font clolor = blue>**We will be working on an AI project with Pico. The project will be equipped with a camera module, Pico will play the role of Ethernet-based data transmission, and we will use the data to build quality data using AI programs and create reusable source and software.**</font>
+# Concept  
+## Real esr-GAN
+![teaser](https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/1916e0f5-cdc9-42ec-9aec-3744ddc2e3d6)
+### Generative Adversarial Networks 
+![img](https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/65510874-aba2-4843-8db9-104af41d8e77)
+
+## image-captioning
+<img width="501" alt="image-captioning-example" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/44d84ee8-04f2-4e52-8fa8-55ef4a0870ba">
+
+###  Vision Encoder Decoder
+<img width="839" alt="vision-encoder-decoder" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/32c208ec-0e4f-4cd8-b8ea-78bf19d7b455">
+
+
 ## A.I with PICO
+**We will be working on an AI project with Pico. The project will be equipped with a camera module, Pico will play the role of Ethernet-based data transmission, and we will use the data to build quality data using AI programs and create reusable source and software.**
 - AIOT with the latest AI technology  
 - A realistic alternative to AI task
-  
+
+
 # AI Teams 
 [김재현](http://github.com/jh941213) |[정유석](https://github.com/dbtjr1103) |
 ------|------|
