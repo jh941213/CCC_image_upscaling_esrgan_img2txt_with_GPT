@@ -27,7 +27,7 @@ LocalPC(GPU cuda setting) , Pico, LAN, Camera Module
 
 # PipeLine
 <img width="166" alt="2" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/d2dfca23-f9ca-41af-97d3-5252bb8387b7">
-
+https://showme.redstarplugin.com/d/l2fZCU97
 
 **how to run?**
 
