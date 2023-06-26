@@ -31,7 +31,8 @@ Storage | 1TB |166GB|73GB|
 
 ## image-captioning
  - [vit-gpt2-image-captioning](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)img to text with ChatGPT hugging face model  
-<img width="501" alt="image-captioning-example" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/44d84ee8-04f2-4e52-8fa8-55ef4a0870ba">  
+<img width="501" alt="image-captioning-example" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/44d84ee8-04f2-4e52-8fa8-55ef4a0870ba">
+
 #####  Vision Encoder Decoder
 <img width="839" alt="vision-encoder-decoder" src="https://github.com/WiznetAI/CCC_image_upscaling_esrgan_img2txt_with_GPT/assets/132982685/32c208ec-0e4f-4cd8-b8ea-78bf19d7b455">    
 
